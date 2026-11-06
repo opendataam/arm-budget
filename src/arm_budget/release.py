@@ -29,6 +29,7 @@ import shutil
 import subprocess
 import tarfile
 import tempfile
+import time
 import zipfile
 from pathlib import Path
 
@@ -241,14 +242,31 @@ def parse_sums(text: str) -> dict[str, str]:
     return out
 
 
-def _fetch(session: requests.Session, url: str, dst: Path) -> None:
+def _fetch(session: requests.Session, url: str, dst: Path, attempts: int = 30) -> None:
+    """Download ``url`` to ``dst``; a dropped connection is resumed with an HTTP Range request.
+
+    The partial file (``<dst>.part``) is kept between runs, so a later run continues it."""
     dst.parent.mkdir(parents=True, exist_ok=True)
-    with session.get(url, stream=True, timeout=300) as r:
-        r.raise_for_status()
-        tmp = dst.with_suffix(dst.suffix + ".part")
-        with open(tmp, "wb") as f:
-            f.writelines(r.iter_content(1 << 20))
-        tmp.replace(dst)
+    tmp = dst.with_suffix(dst.suffix + ".part")
+    for attempt in range(1, attempts + 1):
+        have = tmp.stat().st_size if tmp.exists() else 0
+        headers = {"Range": f"bytes={have}-"} if have else {}
+        try:
+            with session.get(url, stream=True, timeout=(30, 120), headers=headers) as r:
+                if r.status_code == 416:  # already complete
+                    break
+                r.raise_for_status()
+                if have and r.status_code != 206:  # the server ignored the range: start again
+                    have = 0
+                with open(tmp, "ab" if have else "wb") as f:
+                    f.writelines(r.iter_content(1 << 20))
+            break
+        except requests.RequestException as exc:
+            if attempt == attempts:
+                raise
+            log.warning("%s: %s, resuming (attempt %d)", url.rsplit("/", 1)[-1], exc, attempt + 1)
+            time.sleep(min(30, 3 * attempt))
+    tmp.replace(dst)
 
 
 def safe_members(t: tarfile.TarFile, prefix: str) -> list[tarfile.TarInfo]:
@@ -268,7 +286,7 @@ def download(tag: str = "latest", parts: tuple[str, ...] = ("db",), with_catalog
     """Download release assets, verify SHA256 and unpack them into data/."""
     session = requests.Session()
     session.headers["User-Agent"] = config.USER_AGENT
-    cache = config.RELEASE_DIR / "download"
+    cache = config.RELEASE_DIR / "download" / tag
     cache.mkdir(parents=True, exist_ok=True)
     sums = session.get(asset_url(SUMS, tag), timeout=60)
     sums.raise_for_status()
@@ -276,8 +294,11 @@ def download(tag: str = "latest", parts: tuple[str, ...] = ("db",), with_catalog
     for part in parts:
         name = ASSETS[part]
         path = cache / name
-        log.info("download %s", asset_url(name, tag))
-        _fetch(session, asset_url(name, tag), path)
+        if path.exists() and sha256(path) == expected.get(name):
+            log.info("%s already downloaded", path)
+        else:
+            log.info("download %s", asset_url(name, tag))
+            _fetch(session, asset_url(name, tag), path)
         digest = sha256(path)
         if digest != expected.get(name):
             path.unlink()
