@@ -1,0 +1,27 @@
+{
+  "base_url": "https://budget.minfin.am:82",
+  "fetched_at": "2026-11-05T18:48:21+00:00",
+  "reports": [
+    {
+      "page": "site_b",
+      "label": "Ծախսեր",
+      "total_kamd": 3752208931.3
+    },
+    {
+      "page": "site_d",
+      "label": "Եկամուտներ",
+      "total_kamd": 3204219459.26
+    },
+    {
+      "page": "site_l",
+      "label": "Դեֆիցիտ",
+      "total_kamd": 548089474.3
+    }
+  ],
+  "years": {
+    "2024": 3,
+    "2025": 2,
+    "2026": 1
+  },
+  "warnings": []
+}

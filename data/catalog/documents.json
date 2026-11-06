@@ -1,0 +1,35 @@
+[
+  {
+    "url": "xml/16.pdf",
+    "title_hy": "ԴԱՍԱԿԱՐԳՄԱՆ ԿԻՐԱՌՄԱՆ ՑՈՒՑՈՒՄՆԵՐ` ԸՆԹԱՑԻԿ ԾԱԽՍԵՐ",
+    "reports": [
+      "expenditure"
+    ],
+    "file": "16.pdf",
+    "size_bytes": 728338,
+    "sha256": "c9e3181fd4e302d1d73406cdb29542512e4c7c6dbaf8b4481d1776efe314a928",
+    "fetched_at": "2026-11-05T18:48:21+00:00"
+  },
+  {
+    "url": "xml/17.pdf",
+    "title_hy": "ԴԱՍԱԿԱՐԳՄԱՆ ԿԻՐԱՌՄԱՆ ՑՈՒՑՈՒՄՆԵՐ`ՈՉ ՖԻՆԱՆՍԱԿԱՆ ԱԿՏԻՎՆԵՐԻ ԳԾՈՎ ԾԱԽՍԵՐ",
+    "reports": [
+      "expenditure"
+    ],
+    "file": "17.pdf",
+    "size_bytes": 231925,
+    "sha256": "65f660650faf2111ce740a9448c8547f734021e8113e494c1c2a04432d9fec6d",
+    "fetched_at": "2026-11-05T18:48:21+00:00"
+  },
+  {
+    "url": "xml/19.pdf",
+    "title_hy": "ԴԱՍԱԿԱՐԳՄԱՆ ԿԻՐԱՌՄԱՆ ՑՈՒՑՈՒՄՆԵՐ` ԸՆԹԱՑԻԿ ԵԿԱՄՈՒՏՆԵՐ",
+    "reports": [
+      "revenue"
+    ],
+    "file": "19.pdf",
+    "size_bytes": 190569,
+    "sha256": "9745e31d5c996dce11fcfcceba107169be109119f0eb98184241bd9f1709cbf2",
+    "fetched_at": "2026-11-05T18:48:21+00:00"
+  }
+]

@@ -1,0 +1,2982 @@
+[
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301007",
+    "file": "raw/probes/2024/expenditure/department-301007.html.gz",
+    "n_records": 7,
+    "content_sha256": "13f031a0b070f9f820a2bac4976336cd7e9fb3bf1b4c10044610fd6959f67cdf",
+    "fetched_at": "2026-11-05T20:12:23+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301020",
+    "file": "raw/probes/2024/expenditure/department-301020.html.gz",
+    "n_records": 7,
+    "content_sha256": "147cc2c9a2a6583e2a125575c12295b29fa1c0bb9f2574be51f37845deedc03f",
+    "fetched_at": "2026-11-05T20:12:25+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301021",
+    "file": "raw/probes/2024/expenditure/department-301021.html.gz",
+    "n_records": 7,
+    "content_sha256": "4c49c2af3c3fa6827cd3a3eb9f15816d13e70428e14dc880c191532c6cb278d1",
+    "fetched_at": "2026-11-05T20:12:26+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301022",
+    "file": "raw/probes/2024/expenditure/department-301022.html.gz",
+    "n_records": 7,
+    "content_sha256": "5841e5d9f7f8342a0a7623e79bbdaaf36e7b74c5a8afb396ede6977798abf9cc",
+    "fetched_at": "2026-11-05T20:12:28+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301023",
+    "file": "raw/probes/2024/expenditure/department-301023.html.gz",
+    "n_records": 7,
+    "content_sha256": "3390ef4f717774885d9cd89e7823a9368cc7ca0dbb787b1ab955def540683f0c",
+    "fetched_at": "2026-11-05T20:12:30+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301025",
+    "file": "raw/probes/2024/expenditure/department-301025.html.gz",
+    "n_records": 7,
+    "content_sha256": "96e35cb7431f3e4479a993846d19576e269590539bed5dcaf6abadf96b6a9d91",
+    "fetched_at": "2026-11-05T20:12:33+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4221",
+    "file": "raw/probes/2024/expenditure/economic-4221.html.gz",
+    "n_records": 434,
+    "content_sha256": "ae966fab2cb97d7cdf20fb11608d742187aff1104706a1f04456d4b95a0eb4df",
+    "fetched_at": "2026-11-05T20:12:35+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4229",
+    "file": "raw/probes/2024/expenditure/economic-4229.html.gz",
+    "n_records": 11,
+    "content_sha256": "03a0e4bce9dec1f9bd5ef7b05e027d975d676c0727f5e006f6244ee234119659",
+    "fetched_at": "2026-11-05T20:12:37+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4822",
+    "file": "raw/probes/2024/expenditure/economic-4822.html.gz",
+    "n_records": 496,
+    "content_sha256": "5a5e5d1087020c2b357a0392474d03348a24648006a1f2686db6f92cac253b37",
+    "fetched_at": "2026-11-05T20:12:39+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4824",
+    "file": "raw/probes/2024/expenditure/economic-4824.html.gz",
+    "n_records": 16,
+    "content_sha256": "e621340f641614a9e4e589eeb8e11024f9bbd58fb9500cc9eaa945ab2dbf10a5",
+    "fetched_at": "2026-11-05T20:12:41+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000025",
+    "file": "raw/probes/2024/expenditure/program-000025.html.gz",
+    "n_records": 17,
+    "content_sha256": "aa8033853bfd3d726f46c1f000816414a0e65253b7d3fa06a07a6be018427277",
+    "fetched_at": "2026-11-05T20:11:34+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000245",
+    "file": "raw/probes/2024/expenditure/program-000245.html.gz",
+    "n_records": 26,
+    "content_sha256": "597e296ed5d90e9ac8308578aea7bbe4423b26e1146ca5f04b34c39bde105e1c",
+    "fetched_at": "2026-11-05T20:12:14+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000745",
+    "file": "raw/probes/2024/expenditure/program-000745.html.gz",
+    "n_records": 11,
+    "content_sha256": "f9e6b13233b25620bf77c3285199ed08dd8e9b3859dbe605f0ca9757d6b8e471",
+    "fetched_at": "2026-11-05T20:12:19+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001000",
+    "file": "raw/probes/2024/expenditure/program-001000.html.gz",
+    "n_records": 7,
+    "content_sha256": "639108b28522064afe8b7b3f0fe3ab4908ff03432467fd8ddbf582359ca89bdf",
+    "fetched_at": "2026-11-05T20:11:46+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001236",
+    "file": "raw/probes/2024/expenditure/program-001236.html.gz",
+    "n_records": 7,
+    "content_sha256": "e4f17f7e0d22a093019b3fedffd31c166294a69b1446c2733268b3ed69054005",
+    "fetched_at": "2026-11-05T20:11:52+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001676",
+    "file": "raw/probes/2024/expenditure/program-001676.html.gz",
+    "n_records": 20,
+    "content_sha256": "6dd37ced06d0ac49dcafd2d4eecc742572e40a78cc85f0da86f824fc8f53ce8a",
+    "fetched_at": "2026-11-05T20:12:05+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002332",
+    "file": "raw/probes/2024/expenditure/program-002332.html.gz",
+    "n_records": 10,
+    "content_sha256": "d82fcb16cd7a15f144f0c976b8ffb53c1ba87557baa4d405626b2c62b151bca3",
+    "fetched_at": "2026-11-05T20:12:16+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002424",
+    "file": "raw/probes/2024/expenditure/program-002424.html.gz",
+    "n_records": 7,
+    "content_sha256": "dd05f06789ebe789dc39f9850980e3e9a0f2409720bfb9006b81260bd0477cfb",
+    "fetched_at": "2026-11-05T20:12:08+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002473",
+    "file": "raw/probes/2024/expenditure/program-002473.html.gz",
+    "n_records": 41,
+    "content_sha256": "dfb022c686d45a1f832351f59f4f81f07d89fb72021d693ae64dbd895d9a25ce",
+    "fetched_at": "2026-11-05T20:11:36+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002685",
+    "file": "raw/probes/2024/expenditure/program-002685.html.gz",
+    "n_records": 7,
+    "content_sha256": "a942761315e9d1dea6feba341899d52e324849fc430b9bbf32c0af6f46ae092d",
+    "fetched_at": "2026-11-05T20:11:54+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "003562",
+    "file": "raw/probes/2024/expenditure/program-003562.html.gz",
+    "n_records": 7,
+    "content_sha256": "40191ecde342632e6e831bc6da3dbef1e3513904bd05f55326df66d6f2d7e746",
+    "fetched_at": "2026-11-05T20:12:01+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004062",
+    "file": "raw/probes/2024/expenditure/program-004062.html.gz",
+    "n_records": 7,
+    "content_sha256": "5b4f1f7da527449f23c5552d076fa7396923b853e2694cf472a583414fea788e",
+    "fetched_at": "2026-11-05T20:12:03+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004072",
+    "file": "raw/probes/2024/expenditure/program-004072.html.gz",
+    "n_records": 13,
+    "content_sha256": "c5a1b583b5833c7fcb83d9e9f58cd021c909c13b9fa2ed9fb6957eee3e5a57b4",
+    "fetched_at": "2026-11-05T20:11:56+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004073",
+    "file": "raw/probes/2024/expenditure/program-004073.html.gz",
+    "n_records": 7,
+    "content_sha256": "30c3dbb06bf4f9112afcbe69d1b3c27af15ce4373c0b515fa929e47ee18a4b86",
+    "fetched_at": "2026-11-05T20:11:58+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004077",
+    "file": "raw/probes/2024/expenditure/program-004077.html.gz",
+    "n_records": 7,
+    "content_sha256": "8a630e9317f174bde2bfd9e5878f100aea6cb04cfeb50e9af15534c9cb97d518",
+    "fetched_at": "2026-11-05T20:24:30+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004551",
+    "file": "raw/probes/2024/expenditure/program-004551.html.gz",
+    "n_records": 13,
+    "content_sha256": "d7a2ba9c8338612001745a2c233aa55ef694b32bcfffebe678dce7738cb166c6",
+    "fetched_at": "2026-11-05T20:11:50+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004576",
+    "file": "raw/probes/2024/expenditure/program-004576.html.gz",
+    "n_records": 7,
+    "content_sha256": "b7f455be6cd5d47e7bd5f5b7fb69e574e7de5564d9ba7a00dde8162dc99294b4",
+    "fetched_at": "2026-11-05T20:24:22+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004617",
+    "file": "raw/probes/2024/expenditure/program-004617.html.gz",
+    "n_records": 7,
+    "content_sha256": "e5012632d0eb4c84f678b024ddcf8d37194c70a5a4340835804de741f966d2be",
+    "fetched_at": "2026-11-05T20:24:26+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004625",
+    "file": "raw/probes/2024/expenditure/program-004625.html.gz",
+    "n_records": 7,
+    "content_sha256": "787b60dfbc35db07de3143098d14022a6d9d877f71725d906209b44396dbaae3",
+    "fetched_at": "2026-11-05T20:12:21+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004732",
+    "file": "raw/probes/2024/expenditure/program-004732.html.gz",
+    "n_records": 7,
+    "content_sha256": "63465963e2d1a2b5354dbc1dedf7aa2338808ab7a0d760f84778dee1a985ed31",
+    "fetched_at": "2026-11-05T20:11:41+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004740",
+    "file": "raw/probes/2024/expenditure/program-004740.html.gz",
+    "n_records": 7,
+    "content_sha256": "0ffb17c14e1897d969fcbeca60fdfe8c1e9e9c66209bd915d1a545f5c2cdeca6",
+    "fetched_at": "2026-11-05T20:11:39+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004800",
+    "file": "raw/probes/2024/expenditure/program-004800.html.gz",
+    "n_records": 13,
+    "content_sha256": "1ea87385b8fb65001ac868166f27cc147be46628ac2e100694f35659c0b8bfa8",
+    "fetched_at": "2026-11-05T20:11:43+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004807",
+    "file": "raw/probes/2024/expenditure/program-004807.html.gz",
+    "n_records": 9,
+    "content_sha256": "0e67bea46600c3bb48c1542a12313cd8d10447d70627e00c6b7e2fdf78780b51",
+    "fetched_at": "2026-11-05T20:12:10+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004837",
+    "file": "raw/probes/2024/expenditure/program-004837.html.gz",
+    "n_records": 7,
+    "content_sha256": "5ca99779444fbaba77905d6736ca5e4f2f5e3b582c7c806ad0ef9ee5ada9b0fd",
+    "fetched_at": "2026-11-05T20:12:12+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2024/revenue-t1/department-104001.html.gz",
+    "n_records": 33,
+    "content_sha256": "1fc83945956ab2cb544b354e11f560dda8117ac8a5c7ae57281961ef6288d07d",
+    "fetched_at": "2026-11-05T19:58:50+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2024/revenue-t1/department-104004.html.gz",
+    "n_records": 58,
+    "content_sha256": "cbbfd49aa91c0c6292432eb444fd830e4548f2a6e6f2fd206502e752e7b08cf8",
+    "fetched_at": "2026-11-05T19:58:39+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2024/revenue-t1/department-104007.html.gz",
+    "n_records": 13,
+    "content_sha256": "ef7d4c6e119ec504d7376b4c0762ac8487cee595f56ef5b5cb9377211c14e5e4",
+    "fetched_at": "2026-11-05T19:58:44+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2024/revenue-t1/department-104009.html.gz",
+    "n_records": 23,
+    "content_sha256": "c3148c4f46da4485405749b0a23e385af183149d2a65d7d50dd8583e95967ecc",
+    "fetched_at": "2026-11-05T19:58:55+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2024/revenue-t1/department-104010.html.gz",
+    "n_records": 12,
+    "content_sha256": "8a5029de5a6eccc8e76cf4a9505073709ca5fed06bce227f02759490c5fb4640",
+    "fetched_at": "2026-11-05T19:58:29+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2024/revenue-t1/department-104011.html.gz",
+    "n_records": 8,
+    "content_sha256": "73cdae0a60194b5903bd92297c4848e12dd316bbd5418b729dce4c051aa57aee",
+    "fetched_at": "2026-11-05T19:58:34+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104023",
+    "file": "raw/probes/2024/revenue-t1/department-104023.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:58:21+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104027",
+    "file": "raw/probes/2024/revenue-t1/department-104027.html.gz",
+    "n_records": 21,
+    "content_sha256": "52bf4a3f2c9d314a5c048eb95aa3a658c580aabaf8b5fc727af3652aa9f118be",
+    "fetched_at": "2026-11-05T19:58:25+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005000741.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:44+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005000758.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:48+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001723",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005001723.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:03:24+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001731",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005001731.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:03:36+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001830",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005001830.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:03:28+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002309",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005002309.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:28+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002721",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005002721.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:18+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002739",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005002739.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:23+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005003307",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005003307.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:13+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005003455",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005003455.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:03:32+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010112",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005010112.html.gz",
+    "n_records": 5,
+    "content_sha256": "127c56a9af519f194da69efc20a5d90007c973346f3195ae6e992b6775c2178c",
+    "fetched_at": "2026-11-05T19:59:00+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010120",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005010120.html.gz",
+    "n_records": 5,
+    "content_sha256": "c45c35824ec3008a76745ab0e23cbd376dbd99bc9de165b7556fcbaa422d41d9",
+    "fetched_at": "2026-11-05T19:59:16+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010146",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005010146.html.gz",
+    "n_records": 5,
+    "content_sha256": "54d980113e4930093e08bc3a8abaed30b39918f58541000e7364c8d0e1f9bcf4",
+    "fetched_at": "2026-11-05T19:59:33+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020111",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005020111.html.gz",
+    "n_records": 5,
+    "content_sha256": "08b076fa538be416f11104d429d6a3be718830c02c8111b02265c276b3cf82e2",
+    "fetched_at": "2026-11-05T19:59:09+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020129",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005020129.html.gz",
+    "n_records": 5,
+    "content_sha256": "b7197c51f3ff78127f5b20c306f95619c5998af66e11860303eeaba92d00f96d",
+    "fetched_at": "2026-11-05T19:59:24+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020145",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005020145.html.gz",
+    "n_records": 5,
+    "content_sha256": "6a1504968f1de4b201ba7789ef798752fe1c7992127c1c7d4486f125bf5da645",
+    "fetched_at": "2026-11-05T19:59:42+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005168316.html.gz",
+    "n_records": 5,
+    "content_sha256": "fa25bff7f47b8d02c9c3a6beffab94fd7738aeda7544d5d0446cb018e488e88a",
+    "fetched_at": "2026-11-05T20:24:40+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005168415",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005168415.html.gz",
+    "n_records": 5,
+    "content_sha256": "be268d88a2860c46e07be33971578cfc122146f55e20d3f1b68443bff88be0a9",
+    "fetched_at": "2026-11-05T20:24:51+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005180428",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005180428.html.gz",
+    "n_records": 5,
+    "content_sha256": "f42c239da8d80d75833b0295b8b9704107fd3842182f5ef27a15f51edfd06eb0",
+    "fetched_at": "2026-11-05T20:24:37+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005240115",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005240115.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:38+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005242517",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005242517.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:33+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005243010",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005243010.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:08+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005281614",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900005281614.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:59:54+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900013150025",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900013150025.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:59:58+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900013150058",
+    "file": "raw/probes/2024/revenue-t1/rev_account-900013150058.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:00:04+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "1688",
+    "file": "raw/probes/2024/revenue-t1/rev_group-1688.html.gz",
+    "n_records": 6,
+    "content_sha256": "4228b70652c8a4e7c6e02561b722ce1b046d3368f7c100ece9ced7464463ed43",
+    "fetched_at": "2026-11-05T20:24:33+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2425",
+    "file": "raw/probes/2024/revenue-t1/rev_group-2425.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:57:58+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2430",
+    "file": "raw/probes/2024/revenue-t1/rev_group-2430.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:58:17+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2432",
+    "file": "raw/probes/2024/revenue-t1/rev_group-2432.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:58:07+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2434",
+    "file": "raw/probes/2024/revenue-t1/rev_group-2434.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:58:11+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "7001",
+    "file": "raw/probes/2024/revenue-t1/rev_group-7001.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:58:02+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2024/revenue-t3/department-104001.html.gz",
+    "n_records": 9,
+    "content_sha256": "738e6f0e8bb9779bfe8586f3740ea8d3fbe048a9c66e110690898a892fe08d9e",
+    "fetched_at": "2026-11-05T20:04:23+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2024/revenue-t3/department-104004.html.gz",
+    "n_records": 17,
+    "content_sha256": "53de6a9b62735a904f9c86a924037ec3731e7816eb60eb930df04bbf6003248f",
+    "fetched_at": "2026-11-05T20:04:12+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2024/revenue-t3/department-104007.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:04:17+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2024/revenue-t3/department-104009.html.gz",
+    "n_records": 10,
+    "content_sha256": "3f1f3ff1bf0ec45532a3017fa8caca69a360e60d6e4617895f2473b9ef1eb42a",
+    "fetched_at": "2026-11-05T20:04:26+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2024/revenue-t3/department-104010.html.gz",
+    "n_records": 9,
+    "content_sha256": "42f3b51688bf47b1c62f0e87f6894e7f9a95479fb7a0c183d8cc1dcfc2509d69",
+    "fetched_at": "2026-11-05T20:04:31+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2024/revenue-t3/department-104011.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:04:35+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104023",
+    "file": "raw/probes/2024/revenue-t3/department-104023.html.gz",
+    "n_records": 5,
+    "content_sha256": "96d0992a88cba3950bf2107ec14525e4573975a8a0268691ffa6d5519e641166",
+    "fetched_at": "2026-11-05T20:04:38+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104027",
+    "file": "raw/probes/2024/revenue-t3/department-104027.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:04:41+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005000741.html.gz",
+    "n_records": 5,
+    "content_sha256": "14c586e824bce516c93264a405e01121eea77d4af15654638725f4d2b6ae266b",
+    "fetched_at": "2026-11-05T20:25:00+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005000758.html.gz",
+    "n_records": 5,
+    "content_sha256": "287f9bfbf93687447ab7f07b304e6272cb303e6adcef94615ed3a90b858fc710",
+    "fetched_at": "2026-11-05T20:25:03+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001020",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005001020.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:06:01+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001814",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005001814.html.gz",
+    "n_records": 5,
+    "content_sha256": "0117d3c1235e1abed2c220af4d89a7789b2a5c646066333f8c22ff0d5d5a3703",
+    "fetched_at": "2026-11-05T20:06:13+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001822",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005001822.html.gz",
+    "n_records": 5,
+    "content_sha256": "67b7b914e6b304d82a0d4d7ec86d9d75699a4e62e907e61c7a8847896bd747ab",
+    "fetched_at": "2026-11-05T20:06:16+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001848",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005001848.html.gz",
+    "n_records": 5,
+    "content_sha256": "943bd65fd8e9786c82acae386f6de9013b5b153c34dbb89863e210878ad5db5e",
+    "fetched_at": "2026-11-05T20:06:19+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005002721",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005002721.html.gz",
+    "n_records": 5,
+    "content_sha256": "d658a9094f202c01bd73903985e6e053755bc4f0948e1a74eae63a9b76cf628b",
+    "fetched_at": "2026-11-05T20:06:06+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005002739",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005002739.html.gz",
+    "n_records": 5,
+    "content_sha256": "9cd0cbc109919ab35138a5db667252d8caa808b16c7fc0f9149f55082cd4d428",
+    "fetched_at": "2026-11-05T20:06:09+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005160743",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005160743.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:05:57+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163838",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005163838.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:05:53+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163846",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005163846.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:05:43+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163853",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005163853.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:05:49+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005168316.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:57+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005168415",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005168415.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:25:06+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005180014",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005180014.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:05:33+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005180428",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005180428.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:54+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220125",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005220125.html.gz",
+    "n_records": 5,
+    "content_sha256": "2090ca1abe6f9a5dc80ed1ba069744576f8be4fe5332d174436067066ed9dd02",
+    "fetched_at": "2026-11-05T20:04:44+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220547",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005220547.html.gz",
+    "n_records": 5,
+    "content_sha256": "351fb9cff9dc784758cba76f87f6242bb361a54a60c7cfa8a48a39020d9a87cd",
+    "fetched_at": "2026-11-05T20:04:48+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242111",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005242111.html.gz",
+    "n_records": 5,
+    "content_sha256": "48d7ee0145f854339fb2668f3a95093b056f5eae0a12dcedaa2e493ea6b55988",
+    "fetched_at": "2026-11-05T20:05:02+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242210",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005242210.html.gz",
+    "n_records": 5,
+    "content_sha256": "4d606660b0f59a4d67a03c10a97fa735b79d987056c3290c1b6ec4fc82551b28",
+    "fetched_at": "2026-11-05T20:05:05+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242418",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005242418.html.gz",
+    "n_records": 5,
+    "content_sha256": "f611f989087553a8e96751889d37125c9f5e45675b2dad635765272dfb53c538",
+    "fetched_at": "2026-11-05T20:05:10+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242616",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900005242616.html.gz",
+    "n_records": 5,
+    "content_sha256": "49c79d1bc8cf2f93d0fba1e9493a7998c5a1628919a92c828f8888c48cdc49b0",
+    "fetched_at": "2026-11-05T20:05:13+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150025",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900013150025.html.gz",
+    "n_records": 5,
+    "content_sha256": "d49142aab3d1dd25ea115c6af48ab03e1153c46edc207d38031a031b244f40d4",
+    "fetched_at": "2026-11-05T20:04:51+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150033",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900013150033.html.gz",
+    "n_records": 5,
+    "content_sha256": "98bfb15ed02beb5ad1b0eb97db2226e1d26ce234111e0aab42655fdd71c4232e",
+    "fetched_at": "2026-11-05T20:06:25+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150058",
+    "file": "raw/probes/2024/revenue-t3/rev_account-900013150058.html.gz",
+    "n_records": 5,
+    "content_sha256": "ad7295351c1b0c3a4ce96898c796ab9fd4d59e36c6a7e409c951fcddbed1ac1a",
+    "fetched_at": "2026-11-05T20:04:57+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2401",
+    "file": "raw/probes/2024/revenue-t3/rev_group-2401.html.gz",
+    "n_records": 5,
+    "content_sha256": "02353f32174716c01c920f1e3fd5a50e4534de47ac2496f009470b4c9cf4c6b6",
+    "fetched_at": "2026-11-05T20:03:48+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2404",
+    "file": "raw/probes/2024/revenue-t3/rev_group-2404.html.gz",
+    "n_records": 5,
+    "content_sha256": "7872e679379f4d11257d63b986bfe07c06bf4aded2be218e4f6ed5a517f2bb6e",
+    "fetched_at": "2026-11-05T20:03:51+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2413",
+    "file": "raw/probes/2024/revenue-t3/rev_group-2413.html.gz",
+    "n_records": 5,
+    "content_sha256": "4b0a57304097c4333cea435513f9601b6f8576a74a24e5a3f1d9b6b3bae01f03",
+    "fetched_at": "2026-11-05T20:03:54+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2419",
+    "file": "raw/probes/2024/revenue-t3/rev_group-2419.html.gz",
+    "n_records": 7,
+    "content_sha256": "0cad8bebe6abd68c3880737718d2006ef764ff9ece10045c362859de7b9635f2",
+    "fetched_at": "2026-11-05T20:04:01+00:00"
+  },
+  {
+    "year": 2024,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2420",
+    "file": "raw/probes/2024/revenue-t3/rev_group-2420.html.gz",
+    "n_records": 5,
+    "content_sha256": "8ca3e7b8a5b449d184635b289c9fd6469e2e3621657eac616269b3c611c85618",
+    "fetched_at": "2026-11-05T20:04:07+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301007",
+    "file": "raw/probes/2025/expenditure/department-301007.html.gz",
+    "n_records": 7,
+    "content_sha256": "83d11354b1c0e60c7e6aa8bb4752f5da7753f3b67ac5ef53cfd64f53a586fc87",
+    "fetched_at": "2026-11-05T20:09:39+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301020",
+    "file": "raw/probes/2025/expenditure/department-301020.html.gz",
+    "n_records": 7,
+    "content_sha256": "462279648d6e6dfc831787ed9cddf3ab11809f64168bd9853df4d0ad48200e56",
+    "fetched_at": "2026-11-05T20:09:41+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301021",
+    "file": "raw/probes/2025/expenditure/department-301021.html.gz",
+    "n_records": 7,
+    "content_sha256": "f398f7e6ae4fc39fe1e033f5af772bc5ebc1180bdd7369524f328cbae378edd3",
+    "fetched_at": "2026-11-05T20:09:43+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301022",
+    "file": "raw/probes/2025/expenditure/department-301022.html.gz",
+    "n_records": 7,
+    "content_sha256": "2f8b4536bb23d92ce15d8a570c52ca8073fbff7663bad62f88add524db5207f9",
+    "fetched_at": "2026-11-05T20:09:45+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301023",
+    "file": "raw/probes/2025/expenditure/department-301023.html.gz",
+    "n_records": 7,
+    "content_sha256": "68eb443e8088a50938c64928a423da003bce938f4960ce9d50570d06588968ee",
+    "fetched_at": "2026-11-05T20:09:47+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4221",
+    "file": "raw/probes/2025/expenditure/economic-4221.html.gz",
+    "n_records": 442,
+    "content_sha256": "bd0ba72f48e49699cb0d0261d49111d4d4b3cbe6be1f6aa9bd51128be2ad183a",
+    "fetched_at": "2026-11-05T20:09:49+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4229",
+    "file": "raw/probes/2025/expenditure/economic-4229.html.gz",
+    "n_records": 11,
+    "content_sha256": "fc3c160345408de623fffa4c6572fd3b8b97d34b5f09e464284683689f5f04e9",
+    "fetched_at": "2026-11-05T20:09:51+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4822",
+    "file": "raw/probes/2025/expenditure/economic-4822.html.gz",
+    "n_records": 489,
+    "content_sha256": "63cbb8a1fad01595deba92c0f43334a282de9381b36d2e816dc40ae72b86f706",
+    "fetched_at": "2026-11-05T20:09:53+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4824",
+    "file": "raw/probes/2025/expenditure/economic-4824.html.gz",
+    "n_records": 19,
+    "content_sha256": "4fa79f591de7563b51c21d5628703e4842b74d6766a1f47ccdded9eb708362c8",
+    "fetched_at": "2026-11-05T20:09:55+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000025",
+    "file": "raw/probes/2025/expenditure/program-000025.html.gz",
+    "n_records": 17,
+    "content_sha256": "63e337b2b6fefe634511061deb00c6431d863aabd0f47b6ca6524f556082c6bb",
+    "fetched_at": "2026-11-05T20:07:30+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000245",
+    "file": "raw/probes/2025/expenditure/program-000245.html.gz",
+    "n_records": 8,
+    "content_sha256": "d4e49cf882b7db416073863e859eec56585f9d1e7c0c77b9672fe702efedc9fe",
+    "fetched_at": "2026-11-05T20:09:35+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000745",
+    "file": "raw/probes/2025/expenditure/program-000745.html.gz",
+    "n_records": 11,
+    "content_sha256": "cc768e95959550f133bf6845ba77f737cf94e23fd3da4d8512602ffe06e74756",
+    "fetched_at": "2026-11-05T20:08:57+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001000",
+    "file": "raw/probes/2025/expenditure/program-001000.html.gz",
+    "n_records": 18,
+    "content_sha256": "f9e165117151f38d20f6313af6a0b0bd0df5369a67ab88f0112bf866f5e14cac",
+    "fetched_at": "2026-11-05T20:07:43+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001676",
+    "file": "raw/probes/2025/expenditure/program-001676.html.gz",
+    "n_records": 21,
+    "content_sha256": "ab26c4378ac9635556fa1b09fd07fa74afb906aafd3b9f22183f524fd33f44f9",
+    "fetched_at": "2026-11-05T20:08:44+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002332",
+    "file": "raw/probes/2025/expenditure/program-002332.html.gz",
+    "n_records": 9,
+    "content_sha256": "b14ea759119eba2ab8d407b9baac1383b6f888e001938e5f205cc5fc9474d719",
+    "fetched_at": "2026-11-05T20:09:37+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002424",
+    "file": "raw/probes/2025/expenditure/program-002424.html.gz",
+    "n_records": 7,
+    "content_sha256": "08b83710a35751f1499529af06b14179e5d8a236e3785876ac084a79bcc8848b",
+    "fetched_at": "2026-11-05T20:08:51+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002473",
+    "file": "raw/probes/2025/expenditure/program-002473.html.gz",
+    "n_records": 39,
+    "content_sha256": "2c56a4eef5e57e23643d3a80a83f301fea46d128492ff236917141729299898e",
+    "fetched_at": "2026-11-05T20:07:36+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "003562",
+    "file": "raw/probes/2025/expenditure/program-003562.html.gz",
+    "n_records": 9,
+    "content_sha256": "ac487251ed90afc1341c38c12d3183355ea12404a7b34192957fc4a9676ed1f9",
+    "fetched_at": "2026-11-05T20:08:20+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004062",
+    "file": "raw/probes/2025/expenditure/program-004062.html.gz",
+    "n_records": 7,
+    "content_sha256": "5b7da63610718ea273d6177b7ce75b787140e59dc737add89fdece8c50d8cc0f",
+    "fetched_at": "2026-11-05T20:08:35+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004077",
+    "file": "raw/probes/2025/expenditure/program-004077.html.gz",
+    "n_records": 7,
+    "content_sha256": "8a630e9317f174bde2bfd9e5878f100aea6cb04cfeb50e9af15534c9cb97d518",
+    "fetched_at": "2026-11-05T20:23:44+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004551",
+    "file": "raw/probes/2025/expenditure/program-004551.html.gz",
+    "n_records": 11,
+    "content_sha256": "3fea462dd062c7cf35d9672ec9ccc283081e4a4f7d502e23f185840a9274c842",
+    "fetched_at": "2026-11-05T20:08:01+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004576",
+    "file": "raw/probes/2025/expenditure/program-004576.html.gz",
+    "n_records": 7,
+    "content_sha256": "148dce3fa150e5c1b3bf9143dff28aa8efb3275084a3a3eafd7dee8307c74694",
+    "fetched_at": "2026-11-05T20:23:39+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004585",
+    "file": "raw/probes/2025/expenditure/program-004585.html.gz",
+    "n_records": 7,
+    "content_sha256": "c396942c4d608cbe3d524af8d9d07449c748f7f538646170753c186d1b8763f8",
+    "fetched_at": "2026-11-05T20:09:07+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004625",
+    "file": "raw/probes/2025/expenditure/program-004625.html.gz",
+    "n_records": 7,
+    "content_sha256": "d30e9605435a5a7bd3429ffa65ca1fed832a59df12c70b07cf2754619cfccfee",
+    "fetched_at": "2026-11-05T20:09:02+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004745",
+    "file": "raw/probes/2025/expenditure/program-004745.html.gz",
+    "n_records": 7,
+    "content_sha256": "792f4752581fa9eb39d3701d41272c2f56a3ec1ae6fb6e0b364e19503073cf58",
+    "fetched_at": "2026-11-05T20:09:17+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004765",
+    "file": "raw/probes/2025/expenditure/program-004765.html.gz",
+    "n_records": 7,
+    "content_sha256": "94f00482c92c6709f921a6ebf0067ab220550c7f4c2b1dd9c4b1a0346d04a668",
+    "fetched_at": "2026-11-05T20:09:27+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004766",
+    "file": "raw/probes/2025/expenditure/program-004766.html.gz",
+    "n_records": 7,
+    "content_sha256": "4482b3dfa6f25bcbaeab885a604b48e9c11767ede90c730ade212bad0b23cac6",
+    "fetched_at": "2026-11-05T20:09:33+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004796",
+    "file": "raw/probes/2025/expenditure/program-004796.html.gz",
+    "n_records": 7,
+    "content_sha256": "287c01381db527067e05ee2d54afe157a2d10264145af34a0085be734169201b",
+    "fetched_at": "2026-11-05T20:09:22+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004858",
+    "file": "raw/probes/2025/expenditure/program-004858.html.gz",
+    "n_records": 7,
+    "content_sha256": "0c45e75342dba65c2f256c1456f87b2eb2ceb2a00ccf2580483cf793ee7aff95",
+    "fetched_at": "2026-11-05T20:08:06+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004859",
+    "file": "raw/probes/2025/expenditure/program-004859.html.gz",
+    "n_records": 7,
+    "content_sha256": "76c55a069d879a69b85d4aac14dc01dd176a098616feed6587d975cd98664843",
+    "fetched_at": "2026-11-05T20:08:13+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004860",
+    "file": "raw/probes/2025/expenditure/program-004860.html.gz",
+    "n_records": 13,
+    "content_sha256": "5b382bc988c979ff88715cc4eae001ea7c44dc1edee17cfdb4506118dd407c35",
+    "fetched_at": "2026-11-05T20:09:12+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2025/revenue-t1/department-104001.html.gz",
+    "n_records": 42,
+    "content_sha256": "b15115a313c588da3bd0a3d6e2f42b8b809ee866ec1e809885e0003334dfaf9d",
+    "fetched_at": "2026-11-05T19:54:00+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2025/revenue-t1/department-104004.html.gz",
+    "n_records": 68,
+    "content_sha256": "7e174f1b79a8a67b6af14a4a784e4ac9974921870af6c8c0441ec8c9274720ab",
+    "fetched_at": "2026-11-05T19:54:06+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2025/revenue-t1/department-104007.html.gz",
+    "n_records": 13,
+    "content_sha256": "f11ac006b9440340cc33e8e7acf84126882025c9b4c280b765f8e19398d0a367",
+    "fetched_at": "2026-11-05T19:54:09+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2025/revenue-t1/department-104009.html.gz",
+    "n_records": 24,
+    "content_sha256": "251e2b13e55b38101b8122de1ab77ef8e8d59902c36eeebacc890421e64e7402",
+    "fetched_at": "2026-11-05T19:54:03+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2025/revenue-t1/department-104010.html.gz",
+    "n_records": 12,
+    "content_sha256": "607c089f71b1b14174f5f253efec0ec462c8adadaca44798817fef98ee042e7b",
+    "fetched_at": "2026-11-05T19:53:53+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2025/revenue-t1/department-104011.html.gz",
+    "n_records": 8,
+    "content_sha256": "0a9dd9aabefa932485947b57ced485758dbb0ee82430fdc3e49c86b9562797f0",
+    "fetched_at": "2026-11-05T19:53:57+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005000741.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:53+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005000758.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:57+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001095",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005001095.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:00+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001244",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005001244.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:54:54+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002309",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005002309.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:54:42+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002721",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005002721.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:54:38+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010112",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005010112.html.gz",
+    "n_records": 5,
+    "content_sha256": "cbdcd0c8ed32516b404c6e4735ad129013194c998f017c1529c7b01d5ba9541e",
+    "fetched_at": "2026-11-05T19:54:13+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010120",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005010120.html.gz",
+    "n_records": 5,
+    "content_sha256": "a59eec78b0ed74c19fe9eb6c06cbef67aed83408366c560c1359ac62d49c591b",
+    "fetched_at": "2026-11-05T19:54:21+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010146",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005010146.html.gz",
+    "n_records": 5,
+    "content_sha256": "d82d69eb3ddcca05006f31f1ab56d1cc4c3bdfd1049d617f00d7030e425d87e9",
+    "fetched_at": "2026-11-05T19:54:29+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020111",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005020111.html.gz",
+    "n_records": 5,
+    "content_sha256": "bf981292495ecaa28ac8a918ac74eaeea26d91d14c52dbcc76d65df90c36d286",
+    "fetched_at": "2026-11-05T19:54:17+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020129",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005020129.html.gz",
+    "n_records": 5,
+    "content_sha256": "5d861e4ba9cbda27ca6cf241cf3f7d31ef65bc0908e922300c52642baceca279",
+    "fetched_at": "2026-11-05T19:54:25+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020145",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005020145.html.gz",
+    "n_records": 5,
+    "content_sha256": "7bb40bb413e176efcacf1f34b989a06afe99d9a0c857ee2e1e5048344a8aa611",
+    "fetched_at": "2026-11-05T19:54:33+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005024105",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005024105.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:55:01+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005168316.html.gz",
+    "n_records": 5,
+    "content_sha256": "08367519cc9de05a90fbf63254a6edd13abc7b7eff109e4c3d5c57a7679cff3e",
+    "fetched_at": "2026-11-05T20:23:50+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005242517",
+    "file": "raw/probes/2025/revenue-t1/rev_account-900005242517.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:54:48+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "1688",
+    "file": "raw/probes/2025/revenue-t1/rev_group-1688.html.gz",
+    "n_records": 5,
+    "content_sha256": "6fdab0c2f3294bbdc0e22f656c7fcfbaffe63df0cd1ba62b5ed3ec4f58156dff",
+    "fetched_at": "2026-11-05T20:23:46+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2425",
+    "file": "raw/probes/2025/revenue-t1/rev_group-2425.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:53:33+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2430",
+    "file": "raw/probes/2025/revenue-t1/rev_group-2430.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:53:51+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2432",
+    "file": "raw/probes/2025/revenue-t1/rev_group-2432.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:53:44+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2434",
+    "file": "raw/probes/2025/revenue-t1/rev_group-2434.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:53:47+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "7001",
+    "file": "raw/probes/2025/revenue-t1/rev_group-7001.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:53:38+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2025/revenue-t3/department-104001.html.gz",
+    "n_records": 9,
+    "content_sha256": "2a45c729549f500f22ee756a32a142458be539017a92fb980c7793997a158c03",
+    "fetched_at": "2026-11-05T19:55:51+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2025/revenue-t3/department-104004.html.gz",
+    "n_records": 17,
+    "content_sha256": "432da27d82eb7dace729e8f49df5a4be1d88692651604a474bd285c53aeb2fd7",
+    "fetched_at": "2026-11-05T19:55:43+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2025/revenue-t3/department-104007.html.gz",
+    "n_records": 5,
+    "content_sha256": "212b2b1b6f1b6bb2b2cdc202f5d15e3522f633c3f4b6fb2f291bb0d69649b4a0",
+    "fetched_at": "2026-11-05T19:55:47+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2025/revenue-t3/department-104009.html.gz",
+    "n_records": 5,
+    "content_sha256": "cd6d3a49d5aa93070583f50dafe2c665b2ae36cf95867f8afb5a72c50a08016e",
+    "fetched_at": "2026-11-05T19:55:55+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2025/revenue-t3/department-104010.html.gz",
+    "n_records": 9,
+    "content_sha256": "68c91ccf7bef07d637bd1905f0a8186115c16b39494512b53b9ccf9cdcacbbcb",
+    "fetched_at": "2026-11-05T19:55:58+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2025/revenue-t3/department-104011.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:56:01+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005000741.html.gz",
+    "n_records": 5,
+    "content_sha256": "c6c9398d1f3c2953a0eb2af41ff20089b07630879fee9317f2b2ef0abb50ddaa",
+    "fetched_at": "2026-11-05T20:24:06+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005000758.html.gz",
+    "n_records": 5,
+    "content_sha256": "792b2c7bf44bc5cd8ff6065b00fe9f28a2bda45ca51a81e031d0c572b318de0d",
+    "fetched_at": "2026-11-05T20:24:09+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001095",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005001095.html.gz",
+    "n_records": 5,
+    "content_sha256": "f30f1d98743d9a0d8ebe8104355b957dc9f4d24558edbbd19d16b29308058bfc",
+    "fetched_at": "2026-11-05T20:24:12+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001814",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005001814.html.gz",
+    "n_records": 5,
+    "content_sha256": "455bbc61a180bfb528737abe679445ddb211694786e27c104eb7fa0d60c1c4d5",
+    "fetched_at": "2026-11-05T19:57:08+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001822",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005001822.html.gz",
+    "n_records": 5,
+    "content_sha256": "82676b93d4dfe7db2028213c302cdb63837e384c933552ba8ed92737c7325c28",
+    "fetched_at": "2026-11-05T19:57:15+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001848",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005001848.html.gz",
+    "n_records": 5,
+    "content_sha256": "ebc6675bfa90a9156858260834489e4d2ba93cc59c43b2bf91b87352258ba7bf",
+    "fetched_at": "2026-11-05T19:57:22+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005160347",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005160347.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:18+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163838",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005163838.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:57:00+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163846",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005163846.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:56:50+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163853",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005163853.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:56:54+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005166815",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005166815.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:15+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005166849",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005166849.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:56:57+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005168316.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:24:03+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005168514",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005168514.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:57:04+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005180014",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005180014.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:56:47+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220125",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005220125.html.gz",
+    "n_records": 5,
+    "content_sha256": "02066430fe546e854152385c8110e3e43c9aa4c945cfd9e114034b703b8a9cb9",
+    "fetched_at": "2026-11-05T19:56:05+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220547",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005220547.html.gz",
+    "n_records": 5,
+    "content_sha256": "628a01f698431a4534aa3f05320e4b6c08811120baa4cb97cadd76b9935a2157",
+    "fetched_at": "2026-11-05T19:56:09+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242111",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005242111.html.gz",
+    "n_records": 5,
+    "content_sha256": "6138e58cc9191bf4cc4dc773034c7ef47c4c1ed1d3f526fe5f24f4e53c27f1be",
+    "fetched_at": "2026-11-05T19:56:23+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242210",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005242210.html.gz",
+    "n_records": 5,
+    "content_sha256": "57e4af54881e084c61c9f136e0249c16ec11f26985485d3b1cd1da1868e3f700",
+    "fetched_at": "2026-11-05T19:56:30+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242418",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005242418.html.gz",
+    "n_records": 5,
+    "content_sha256": "50f631b975cd83428ecde614c6a5801d1bd1c4e4aea10fb8ac3920dc66c53ff7",
+    "fetched_at": "2026-11-05T19:56:35+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242616",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900005242616.html.gz",
+    "n_records": 5,
+    "content_sha256": "6ec7999e9d77205669ff9a38449cc635d86812016a65ff015cac36495abb5a74",
+    "fetched_at": "2026-11-05T19:56:41+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150025",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900013150025.html.gz",
+    "n_records": 5,
+    "content_sha256": "a945263c077dfd859e5b617bc9557ff8eaa0fa54685027f0c0715ed477b51930",
+    "fetched_at": "2026-11-05T19:56:15+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150033",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900013150033.html.gz",
+    "n_records": 5,
+    "content_sha256": "73aa4aae9768be0ec2daa503d4a5e8a8a2cae601fa367f74f726679a87af88fd",
+    "fetched_at": "2026-11-05T19:57:26+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150058",
+    "file": "raw/probes/2025/revenue-t3/rev_account-900013150058.html.gz",
+    "n_records": 5,
+    "content_sha256": "3de7872c609733dc733bc493ce1638cdf42c6d3e13d14c7a6c17f67f7d17ab25",
+    "fetched_at": "2026-11-05T19:56:19+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2401",
+    "file": "raw/probes/2025/revenue-t3/rev_group-2401.html.gz",
+    "n_records": 5,
+    "content_sha256": "c5baa21199e69317d68e433e75eeeb6a0e7e86a27a65259a0c04cea83b86d511",
+    "fetched_at": "2026-11-05T19:55:22+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2404",
+    "file": "raw/probes/2025/revenue-t3/rev_group-2404.html.gz",
+    "n_records": 5,
+    "content_sha256": "31f43639cff05c5b17641e50a434866f2db5c391fbb8faef46e25f3ccce80539",
+    "fetched_at": "2026-11-05T19:55:25+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2413",
+    "file": "raw/probes/2025/revenue-t3/rev_group-2413.html.gz",
+    "n_records": 5,
+    "content_sha256": "9bf746b4a1ca32d31e1e88f33c1ab47d7913d691d49cf66c1c61ddcbb01b4e7a",
+    "fetched_at": "2026-11-05T19:55:29+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2419",
+    "file": "raw/probes/2025/revenue-t3/rev_group-2419.html.gz",
+    "n_records": 7,
+    "content_sha256": "4dd74c2999a34ce0216eb05bd21941548c8d1c6243ed633b37aa6455b54781e7",
+    "fetched_at": "2026-11-05T19:55:33+00:00"
+  },
+  {
+    "year": 2025,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2420",
+    "file": "raw/probes/2025/revenue-t3/rev_group-2420.html.gz",
+    "n_records": 5,
+    "content_sha256": "016202ddb319b38d0d9b1e5bfa216f50d5bd529ff5191456c95d9ecfa37eda20",
+    "fetched_at": "2026-11-05T19:55:38+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301007",
+    "file": "raw/probes/2026/expenditure/department-301007.html.gz",
+    "n_records": 7,
+    "content_sha256": "92d31848decbaf609f3d7a633b2b15b2bf9d3af8129e3c2cf538db5fd3898998",
+    "fetched_at": "2026-11-05T18:52:51+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301020",
+    "file": "raw/probes/2026/expenditure/department-301020.html.gz",
+    "n_records": 7,
+    "content_sha256": "79328c9ff1bd77fdcdec1edc78f7e944338341183f4fc6d294c1365b9c40bc17",
+    "fetched_at": "2026-11-05T18:53:02+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301021",
+    "file": "raw/probes/2026/expenditure/department-301021.html.gz",
+    "n_records": 7,
+    "content_sha256": "960f74db88f319c4b8de58f539fe6a7b2880c7299e49a9925be7e02713182da2",
+    "fetched_at": "2026-11-05T18:53:56+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301022",
+    "file": "raw/probes/2026/expenditure/department-301022.html.gz",
+    "n_records": 7,
+    "content_sha256": "316433b68b83fe3e4ee912c35d8181a602b4fbffa95f4383d64b10dc08f4d254",
+    "fetched_at": "2026-11-05T18:54:02+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "department",
+    "code": "301023",
+    "file": "raw/probes/2026/expenditure/department-301023.html.gz",
+    "n_records": 7,
+    "content_sha256": "3de447faf93afb3f4b3bf84ef09f41952097e7566bc7ffadc6137b41ac4a7018",
+    "fetched_at": "2026-11-05T18:54:12+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4221",
+    "file": "raw/probes/2026/expenditure/economic-4221.html.gz",
+    "n_records": 451,
+    "content_sha256": "2609bd75812c27dfd091fda75a8618935dc1fa59a891c8330b2d749630f2d6db",
+    "fetched_at": "2026-11-05T18:54:27+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4229",
+    "file": "raw/probes/2026/expenditure/economic-4229.html.gz",
+    "n_records": 17,
+    "content_sha256": "14e03afa659082de51d62d5adeac0945fd56b88a09c12e6264f8908ce2a1a215",
+    "fetched_at": "2026-11-05T18:54:34+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4822",
+    "file": "raw/probes/2026/expenditure/economic-4822.html.gz",
+    "n_records": 477,
+    "content_sha256": "b0870a0dbad0a06720973bf9ba230231c30d54b50189446b0a2e1fe8e73dbb52",
+    "fetched_at": "2026-11-05T18:54:48+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "economic",
+    "code": "4824",
+    "file": "raw/probes/2026/expenditure/economic-4824.html.gz",
+    "n_records": 7,
+    "content_sha256": "aa0b84b66d5cfddcffd2974bac04e3356cbd0382e94edb0066c4f9dc86f13f9e",
+    "fetched_at": "2026-11-05T18:54:52+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000025",
+    "file": "raw/probes/2026/expenditure/program-000025.html.gz",
+    "n_records": 16,
+    "content_sha256": "5cc6086af01dd8cd3e769dc4fd78acc203a8261998aba2a2d63a012939af0bef",
+    "fetched_at": "2026-11-05T18:51:20+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000245",
+    "file": "raw/probes/2026/expenditure/program-000245.html.gz",
+    "n_records": 8,
+    "content_sha256": "ad4fd9290041462bdf66f445e113310af981191bc3d43807db927933e86d52ee",
+    "fetched_at": "2026-11-05T18:51:59+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "000745",
+    "file": "raw/probes/2026/expenditure/program-000745.html.gz",
+    "n_records": 9,
+    "content_sha256": "b2502b13d3615ca834ddf15c595639f224ab01a79ba8dd3fb993b300cab8db05",
+    "fetched_at": "2026-11-05T18:52:16+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "001000",
+    "file": "raw/probes/2026/expenditure/program-001000.html.gz",
+    "n_records": 18,
+    "content_sha256": "ce7104bee79f65283f8813d2375bf838c73f26fba7baf29e4f7cc9395af58fa5",
+    "fetched_at": "2026-11-05T18:51:29+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002332",
+    "file": "raw/probes/2026/expenditure/program-002332.html.gz",
+    "n_records": 9,
+    "content_sha256": "0350faec0f53ca867b689186d08e5590fc4d9dbe7a68d51d784f68903478639e",
+    "fetched_at": "2026-11-05T18:52:06+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "002473",
+    "file": "raw/probes/2026/expenditure/program-002473.html.gz",
+    "n_records": 23,
+    "content_sha256": "bed512e24c8f5faffc6ecc310ab6cbd5b1da3699337b9a51999591fbfa0fe8fb",
+    "fetched_at": "2026-11-05T18:51:24+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004077",
+    "file": "raw/probes/2026/expenditure/program-004077.html.gz",
+    "n_records": 7,
+    "content_sha256": "8a630e9317f174bde2bfd9e5878f100aea6cb04cfeb50e9af15534c9cb97d518",
+    "fetched_at": "2026-11-05T18:55:05+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004551",
+    "file": "raw/probes/2026/expenditure/program-004551.html.gz",
+    "n_records": 15,
+    "content_sha256": "f0bc27446e3416741591e728af42d9e23cbf97abec9be0044f154cbda23935d8",
+    "fetched_at": "2026-11-05T18:51:33+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004625",
+    "file": "raw/probes/2026/expenditure/program-004625.html.gz",
+    "n_records": 7,
+    "content_sha256": "3b490c8e36aac0dcbf76f407f5557c9e7945a8897e9dfa7d153450e6332d7c1b",
+    "fetched_at": "2026-11-05T18:52:31+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004745",
+    "file": "raw/probes/2026/expenditure/program-004745.html.gz",
+    "n_records": 7,
+    "content_sha256": "8e1681dab2a424d6367bccfc1d528d3d5a8ff47a24e654965b4eb6e070c407d2",
+    "fetched_at": "2026-11-05T18:51:47+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004796",
+    "file": "raw/probes/2026/expenditure/program-004796.html.gz",
+    "n_records": 7,
+    "content_sha256": "b0420436675afdf7859901659b589821389e7406fb157069186c52ff0e70568c",
+    "fetched_at": "2026-11-05T18:51:53+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004858",
+    "file": "raw/probes/2026/expenditure/program-004858.html.gz",
+    "n_records": 7,
+    "content_sha256": "bd4a8370a16f3741a00708764dc32507da4a35acad7c006f3f5c51d60ee102d6",
+    "fetched_at": "2026-11-05T18:51:38+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "expenditure",
+    "dim": "program",
+    "code": "004859",
+    "file": "raw/probes/2026/expenditure/program-004859.html.gz",
+    "n_records": 7,
+    "content_sha256": "d4a1418ad7b0920a85e1a0c32902c85ef10ffdf1e02f05afb7e568f77e4da319",
+    "fetched_at": "2026-11-05T18:51:43+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2026/revenue-t1/department-104001.html.gz",
+    "n_records": 45,
+    "content_sha256": "21230b2112cb6cdadaa30614b2512ada5cbabfc6a74c40343e93025bb957f7dd",
+    "fetched_at": "2026-11-05T19:48:02+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2026/revenue-t1/department-104004.html.gz",
+    "n_records": 67,
+    "content_sha256": "ce527fb48016928f9c8f3b6fe11b8efdbc79b7a25cdc2aff433692bedf50fa4d",
+    "fetched_at": "2026-11-05T19:48:09+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2026/revenue-t1/department-104007.html.gz",
+    "n_records": 13,
+    "content_sha256": "c5287495782f48dfecbced5d9daaa9c5f2c6a8b5b729ba35b44f5a8bab0888e6",
+    "fetched_at": "2026-11-05T19:48:53+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2026/revenue-t1/department-104009.html.gz",
+    "n_records": 20,
+    "content_sha256": "16db248ea9ea2d6eb983ee42697272acd739311be02c40345fc36304f3672b9f",
+    "fetched_at": "2026-11-05T19:48:05+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2026/revenue-t1/department-104010.html.gz",
+    "n_records": 15,
+    "content_sha256": "8518457dc034c8bb70d147ba5e07451f6f2db11ed48bc49e6e63a07d911d7f6d",
+    "fetched_at": "2026-11-05T19:46:44+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2026/revenue-t1/department-104011.html.gz",
+    "n_records": 8,
+    "content_sha256": "bd1a99ff6b59eb3dad41c9ab3b5928d914f26aca6e370b77e3d35a2b90c919c7",
+    "fetched_at": "2026-11-05T19:47:59+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104023",
+    "file": "raw/probes/2026/revenue-t1/department-104023.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:46:13+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "department",
+    "code": "104027",
+    "file": "raw/probes/2026/revenue-t1/department-104027.html.gz",
+    "n_records": 21,
+    "content_sha256": "0d9cbe3fa570294ff72c53f2856be89399c998a65a5464f4108510c2ecf0256a",
+    "fetched_at": "2026-11-05T19:46:40+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005000741.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:12+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005000758.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:16+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005001319",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005001319.html.gz",
+    "n_records": 5,
+    "content_sha256": "0aba0f7999d195d6a0c2d34ef73bfc0243e4e652f6fd2d21956355752bf6348a",
+    "fetched_at": "2026-11-05T20:23:19+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002309",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005002309.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:39+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002721",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005002721.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:24+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005002739",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005002739.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:29+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010112",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005010112.html.gz",
+    "n_records": 5,
+    "content_sha256": "03f9ea8d01ec6ea7d60d4de16ce29598c6aed9c1edd62e5c94dcf49645e78bd7",
+    "fetched_at": "2026-11-05T19:48:57+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010120",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005010120.html.gz",
+    "n_records": 5,
+    "content_sha256": "c6da85258acea7de832222d576ae404154081b20fa46f632cbf176e4260d0b2f",
+    "fetched_at": "2026-11-05T19:49:06+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005010146",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005010146.html.gz",
+    "n_records": 5,
+    "content_sha256": "70cab69f6b4f5ad18d726a47bf48b4847394324af299f8ed03f7703296d3c18a",
+    "fetched_at": "2026-11-05T19:49:14+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020111",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005020111.html.gz",
+    "n_records": 5,
+    "content_sha256": "d2384c8dc4c77b90f75b7e8fa2741dbadf8acc0cdf86496f8fbd4e12187438ae",
+    "fetched_at": "2026-11-05T19:49:01+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020129",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005020129.html.gz",
+    "n_records": 5,
+    "content_sha256": "ff326e237876d9c0921d5421f9afea1fe412025e39cbe715884161a0aabfa12a",
+    "fetched_at": "2026-11-05T19:49:10+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005020145",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005020145.html.gz",
+    "n_records": 5,
+    "content_sha256": "9084fb2c0406b92ce69238ef1a6f762792a04edd90b0acd6412ab1e09bc658db",
+    "fetched_at": "2026-11-05T19:49:19+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005028106",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005028106.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:50:05+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005168316.html.gz",
+    "n_records": 5,
+    "content_sha256": "9e95ea1f6f391022d3962bb19cb44955d421a3320c7b9cc67702d67a66fd22de",
+    "fetched_at": "2026-11-05T20:23:08+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005220133",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005220133.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:50:01+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005220562",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005220562.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:57+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005240115",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005240115.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:53+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005242517",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005242517.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:49:46+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900005243010",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900005243010.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:50:14+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_account",
+    "code": "900018113010",
+    "file": "raw/probes/2026/revenue-t1/rev_account-900018113010.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:50:09+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "1401",
+    "file": "raw/probes/2026/revenue-t1/rev_group-1401.html.gz",
+    "n_records": 5,
+    "content_sha256": "7bd1cd9f4734682b5cce01dfdeda46aa83f342fdae5ddcaa7d53aac8ec506101",
+    "fetched_at": "2026-11-05T19:45:17+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "1501",
+    "file": "raw/probes/2026/revenue-t1/rev_group-1501.html.gz",
+    "n_records": 5,
+    "content_sha256": "f78e0792fc171e6d6a9ca68a087f6e53d414fc10168b7829a5eee481394c1a78",
+    "fetched_at": "2026-11-05T19:45:24+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "1688",
+    "file": "raw/probes/2026/revenue-t1/rev_group-1688.html.gz",
+    "n_records": 5,
+    "content_sha256": "e61466fae62f1e1b8df5ededb3e2a9d4a77b2ab5a0e09392ff4c33006e52444b",
+    "fetched_at": "2026-11-05T20:23:05+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2425",
+    "file": "raw/probes/2026/revenue-t1/rev_group-2425.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:45:29+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2430",
+    "file": "raw/probes/2026/revenue-t1/rev_group-2430.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:46:04+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2432",
+    "file": "raw/probes/2026/revenue-t1/rev_group-2432.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:45:44+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "2434",
+    "file": "raw/probes/2026/revenue-t1/rev_group-2434.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:45:54+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t1",
+    "dim": "rev_group",
+    "code": "7001",
+    "file": "raw/probes/2026/revenue-t1/rev_group-7001.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:45:35+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104001",
+    "file": "raw/probes/2026/revenue-t3/department-104001.html.gz",
+    "n_records": 11,
+    "content_sha256": "5c8bec3b8837b80161f705e6a460f66e50ef0841263907fac2ec883653d7cf66",
+    "fetched_at": "2026-11-05T19:50:59+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104004",
+    "file": "raw/probes/2026/revenue-t3/department-104004.html.gz",
+    "n_records": 17,
+    "content_sha256": "30ac2d1bc25eb254bc9e3c5d0fc8802d1f00978a11df576f5b3d11aa23fbad84",
+    "fetched_at": "2026-11-05T19:50:53+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104007",
+    "file": "raw/probes/2026/revenue-t3/department-104007.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:50:56+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104009",
+    "file": "raw/probes/2026/revenue-t3/department-104009.html.gz",
+    "n_records": 5,
+    "content_sha256": "c5125c49ee04d16b5488af6dd024f696fcb9d2a15a97236e65faeebc6b3a4bb9",
+    "fetched_at": "2026-11-05T19:51:02+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104010",
+    "file": "raw/probes/2026/revenue-t3/department-104010.html.gz",
+    "n_records": 13,
+    "content_sha256": "bdee99904d6a074b7dc7b62489b403f8209149d4320ab2123fde0b4c8a6a32ea",
+    "fetched_at": "2026-11-05T19:51:05+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104011",
+    "file": "raw/probes/2026/revenue-t3/department-104011.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:51:08+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104023",
+    "file": "raw/probes/2026/revenue-t3/department-104023.html.gz",
+    "n_records": 5,
+    "content_sha256": "ce7728c09b64b1a9ce30420cbcc7415dd2b13b0896488600eef4118574e4aa2c",
+    "fetched_at": "2026-11-05T19:51:11+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "department",
+    "code": "104027",
+    "file": "raw/probes/2026/revenue-t3/department-104027.html.gz",
+    "n_records": 5,
+    "content_sha256": "364545f80c83052618d8886e7fbaf62949c98bec79a5965ce7e5a615b91cf4fb",
+    "fetched_at": "2026-11-05T19:51:14+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000741",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005000741.html.gz",
+    "n_records": 5,
+    "content_sha256": "fa7524287666351d6dc264cc4bf31fc7c5eaef99ca529cc4e9ebdc280eb283cd",
+    "fetched_at": "2026-11-05T20:23:25+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005000758",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005000758.html.gz",
+    "n_records": 5,
+    "content_sha256": "a4a59dc11f70abccfe4f9cfb3862fa39bc5b8d94ced5ebfd6de3a180c86b72f6",
+    "fetched_at": "2026-11-05T20:23:28+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001020",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005001020.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:52:12+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001319",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005001319.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:31+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001814",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005001814.html.gz",
+    "n_records": 5,
+    "content_sha256": "b2d023ea080a997af56d7b73c026a635de11d74629ce793f315037b071d5ec58",
+    "fetched_at": "2026-11-05T19:52:31+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001822",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005001822.html.gz",
+    "n_records": 5,
+    "content_sha256": "23ddfb42ea5cdf378fbb1a8593110ffbb76cbf32ae15bff75813b82bec0b9e21",
+    "fetched_at": "2026-11-05T19:52:38+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005001848",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005001848.html.gz",
+    "n_records": 5,
+    "content_sha256": "c2bdbe7b87fc10863c5df3af212b5edab3b971f59b1e4759148b5770afd2332a",
+    "fetched_at": "2026-11-05T19:52:46+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005002721",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005002721.html.gz",
+    "n_records": 5,
+    "content_sha256": "d424e7c217039d7fc5bf1f9eef587210aec90d4838b127f3157c6ad9f3fd7a33",
+    "fetched_at": "2026-11-05T19:52:16+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005002739",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005002739.html.gz",
+    "n_records": 5,
+    "content_sha256": "d492ebdee91c8dfff2462752382e2b2d63295b09a567de6ee882c39b7f9b4adb",
+    "fetched_at": "2026-11-05T19:52:23+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005160743",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005160743.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:52:04+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163838",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005163838.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:51:57+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163846",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005163846.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:51:44+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005163853",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005163853.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:51:51+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005168316",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005168316.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T20:23:22+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005180014",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005180014.html.gz",
+    "n_records": 0,
+    "content_sha256": null,
+    "fetched_at": "2026-11-05T19:51:41+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220125",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005220125.html.gz",
+    "n_records": 5,
+    "content_sha256": "f7aec67fe162ff01c823ab00a912e14873196be74eb93405a0ce0a46b5180ac0",
+    "fetched_at": "2026-11-05T19:51:17+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220190",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005220190.html.gz",
+    "n_records": 5,
+    "content_sha256": "f0e8bcde7520dc051cf486ec7f614e37a8ae12c0e8a9087d688d1e7068a2e044",
+    "fetched_at": "2026-11-05T19:51:21+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005220547",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005220547.html.gz",
+    "n_records": 5,
+    "content_sha256": "ee1059f1a4f627c58a4b43b865a1cf01a5a23cb3b43734d74075ecf1a611013b",
+    "fetched_at": "2026-11-05T19:51:24+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242418",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005242418.html.gz",
+    "n_records": 5,
+    "content_sha256": "3018b5ab6bc2b9d46dabb0f0b691c150b9d0a90461d79596d59e1dddb5e1f1f2",
+    "fetched_at": "2026-11-05T19:51:34+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900005242616",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900005242616.html.gz",
+    "n_records": 5,
+    "content_sha256": "cce9f2850e7d85e91a1cb2c7b1b2704b03ce273b51a15d7b8c9629dcf8c040d8",
+    "fetched_at": "2026-11-05T19:51:38+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150025",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900013150025.html.gz",
+    "n_records": 5,
+    "content_sha256": "7e5b09a47c9bbc6be53399ae731552fdc69b6a3fc37505488d63a0e6a9328423",
+    "fetched_at": "2026-11-05T19:51:28+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150033",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900013150033.html.gz",
+    "n_records": 5,
+    "content_sha256": "69d360bece9e931b2f451ef5affcc360d6372e09c5ebce07c3ea5384ca7be8d0",
+    "fetched_at": "2026-11-05T19:52:52+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_account",
+    "code": "900013150058",
+    "file": "raw/probes/2026/revenue-t3/rev_account-900013150058.html.gz",
+    "n_records": 5,
+    "content_sha256": "53a1bb53cac42af476204ddc7194640c99d2a573622e404f2d1c163010a5787e",
+    "fetched_at": "2026-11-05T19:51:31+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2401",
+    "file": "raw/probes/2026/revenue-t3/rev_group-2401.html.gz",
+    "n_records": 5,
+    "content_sha256": "bb70dc62b8470458b68487b9f99742ef39ec67ed4c63a5e2a1c8758496094c72",
+    "fetched_at": "2026-11-05T19:50:29+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2404",
+    "file": "raw/probes/2026/revenue-t3/rev_group-2404.html.gz",
+    "n_records": 5,
+    "content_sha256": "c6c87baedc549d2c363bb0f9aabc9bfec2797a83bf3761034394bfaa7c49aef3",
+    "fetched_at": "2026-11-05T19:50:35+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2413",
+    "file": "raw/probes/2026/revenue-t3/rev_group-2413.html.gz",
+    "n_records": 5,
+    "content_sha256": "ae10d9cd3225b048df736cd06923d27200f7f4cd857604cdb8b300257577ce07",
+    "fetched_at": "2026-11-05T19:50:42+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2419",
+    "file": "raw/probes/2026/revenue-t3/rev_group-2419.html.gz",
+    "n_records": 7,
+    "content_sha256": "1e43f28313b82da5ac15e8246ce2ad1af2c9df6f2d7a4719fc93defc429585c4",
+    "fetched_at": "2026-11-05T19:50:46+00:00"
+  },
+  {
+    "year": 2026,
+    "request": "revenue-t3",
+    "dim": "rev_group",
+    "code": "2420",
+    "file": "raw/probes/2026/revenue-t3/rev_group-2420.html.gz",
+    "n_records": 5,
+    "content_sha256": "446ca22f71082c597bf1181424c714b684a2bbd13497c1da88eb91be0a870555",
+    "fetched_at": "2026-11-05T19:50:49+00:00"
+  }
+]

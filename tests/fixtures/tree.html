@@ -1,0 +1,39 @@
+<div id="grid"></div><script>
+   $(function () {
+      $('#grid').w2grid({
+         name: 'grid',
+         header: 'Արդյունք    -    հազ. դրամներով',
+         searches: [
+	{ field: 'c2', caption: 'Բաժին', type: 'text'},
+	{ field: 'c3', caption: 'Գերատեսչական դասակարգում', type: 'text'},
+	{ field: 'c4', caption: 'Հոդված', type: 'text'}
+      ],
+      columns: [
+	{ field: 'c2', caption: 'Բաժին', size: '200px', sortable: true },
+	{ field: 'c3', caption: 'Գերատեսչական դասակարգում', size: '200px', sortable: true },
+	{ field: 'c4', caption: 'Հոդված', size: '200px', sortable: true },
+	{ field: 'c8', caption: '1 եռամս.  պլան', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c9', caption: 'Գումարը', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c10', caption: ' %', size: '45px', sortable: true },
+	{ field: 'c11', caption: 'Կիսամ. պլան', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c12', caption: 'Գումարը', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c13', caption: '%', size: '45px', sortable: true },
+	{ field: 'c14', caption: '9 ամիս պլան', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c15', caption: 'Գումարը', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c16', caption: '%', size: '45px', sortable: true },
+	{ field: 'c17', caption: 'Տարի պլան', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c18', caption: 'Գումարը', size: '100px', sortable: true , attr: 'align=right', render: 'float:2'},
+	{ field: 'c19', caption: '%', size: '45px', sortable: true }
+      ]
+      ,toolbar: { items: [ { id: 'lnkxlsx', type: 'button', caption: 'Արտահանել', img: 'icon-xls' } ] },
+      records: [
+{ recid: 1,c2: '  Ը  Ն  Դ  Ա  Մ  Ե  Ն  Ը  ',c8: '30',c9: '15',c10: '50%',c11: '60',c12: '30',c13: '50%',c14: '90',c15: '45',c16: '50%',c17: '120',c18: '60.5',c19: '50%'},
+{ recid: 2,c2: 'ՊԱՇՏՊԱՆՈՒԹՅՈՒՆ',c8: '30',c9: '15',c10: '50%',c11: '60',c12: '30',c13: '50%',c14: '90',c15: '45',c16: '50%',c17: '120',c18: '60.5',c19: '50%'},
+{ recid: 3,c3: 'Այլ մարմիններ',c8: '10',c9: '5',c10: '50%',c11: '20',c12: '10',c13: '50%',c14: '30',c15: '15',c16: '50%',c17: '40',c18: '20.25',c19: '51%'},
+{ recid: 4,c4: '- Գործուղումների և շրջագայությունների ծախսեր',c8: '10',c9: '5',c10: '50%',c11: '20',c12: '10',c13: '50%',c14: '30',c15: '15',c16: '50%',c17: '40',c18: '20.25',c19: '51%'},
+{ recid: 5,c3: 'Այլ մարմիններ',c8: '20',c9: '10',c10: '50%',c11: '40',c12: '20',c13: '50%',c14: '60',c15: '30',c16: '50%',c17: '80',c18: '40.25',c19: '50%'},
+{ recid: 6,c4: '- Գործուղումների և շրջագայությունների ծախսեր',c8: '5',c9: '2',c10: '40%',c11: '10',c12: '5',c13: '50%',c14: '15',c15: '7',c16: '47%',c17: '20',c18: '10.25',c19: '51%'},
+{ recid: 7,c4: '- Գործուղումների և շրջագայությունների ծախսեր',c8: '15',c9: '8',c10: '53%',c11: '30',c12: '15',c13: '50%',c14: '45',c15: '23',c16: '51%',c17: '60',c18: '30',c19: '50%'}
+          ]
+       });
+   });</script>

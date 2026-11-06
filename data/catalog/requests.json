@@ -1,0 +1,782 @@
+[
+  {
+    "name": "deficit-v1",
+    "report": "deficit",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_DALL",
+        "1"
+      ]
+    ],
+    "file": "raw/reports/2024/deficit-v1.html.gz",
+    "export_file": "raw/reports/2024/deficit-v1.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 31/12/24 - հազ. դրամներով",
+    "as_of": "2024-12-31",
+    "n_records": 20,
+    "content_sha256": "411c708464532ac47822494f6bfa2232e99a251784d8ab30dcb3cdd4972cb4f4",
+    "fetched_at": "2026-11-05T20:06:29+00:00"
+  },
+  {
+    "name": "deficit-v2",
+    "report": "deficit",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_DALL",
+        "2"
+      ]
+    ],
+    "file": "raw/reports/2024/deficit-v2.html.gz",
+    "export_file": "raw/reports/2024/deficit-v2.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 31/12/24 - հազ. դրամներով",
+    "as_of": "2024-12-31",
+    "n_records": 87,
+    "content_sha256": "058fc2828cb235a7868f5bb2d8739b223f60bbcaf97eade79dc3b6c141253447",
+    "fetched_at": "2026-11-05T20:06:34+00:00"
+  },
+  {
+    "name": "expenditure",
+    "report": "expenditure",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ],
+      [
+        "site_NN5",
+        "5"
+      ],
+      [
+        "site_NN6",
+        "6"
+      ]
+    ],
+    "file": "raw/reports/2024/expenditure.html.gz",
+    "export_file": "raw/reports/2024/expenditure.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԾԱԽՍԵՐ առ 31/12/24 - հազ. դրամներով",
+    "as_of": "2024-12-31",
+    "n_records": 6274,
+    "content_sha256": "ae73a03cfc96e3aa5f3f962500db2931b9b9be62ae0d8a2e726e479ff947669f",
+    "fetched_at": "2026-11-05T20:11:32+00:00"
+  },
+  {
+    "name": "expenditure-contract-lines",
+    "report": "expenditure",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "site_NN1",
+        "7"
+      ]
+    ],
+    "file": "raw/reports/2024/expenditure-contract-lines.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 2224,
+    "content_sha256": "1f6a08d2b79630857a6598953482788ed23a006912940e055f3a15be4d2faca5",
+    "fetched_at": "2026-11-05T20:13:59+00:00"
+  },
+  {
+    "name": "revenue-t0",
+    "report": "revenue",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_EBUDG",
+        "0"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2024/revenue-t0.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 942,
+    "content_sha256": "fd8452e764b437679c441d7800995343a8d91268b4a86fc5565b19b9dc1eff8e",
+    "fetched_at": "2026-11-05T19:57:45+00:00"
+  },
+  {
+    "name": "revenue-t1",
+    "report": "revenue",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_EBUDG",
+        "1"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2024/revenue-t1.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 647,
+    "content_sha256": "0f058f41a21f8b125c7dc7c22e1f43527d61f044681cd47e182302580c1d8fb6",
+    "fetched_at": "2026-11-05T19:57:54+00:00"
+  },
+  {
+    "name": "revenue-t2",
+    "report": "revenue",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_EBUDG",
+        "2"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2024/revenue-t2.html.gz",
+    "export_file": "raw/reports/2024/revenue-t2.export.xml.gz",
+    "export_title": "Պաշտոնական դրամաշնորհներ առ 31/12/24",
+    "as_of": "2024-12-31",
+    "n_records": 14,
+    "content_sha256": "8aa78706939a98568e64b8a49a1e90823e8f65c040ee7380239dfe163aa61225",
+    "fetched_at": "2026-11-05T20:03:41+00:00"
+  },
+  {
+    "name": "revenue-t3",
+    "report": "revenue",
+    "year": 2024,
+    "params": [
+      [
+        "SITE_YEAR",
+        "3"
+      ],
+      [
+        "SITE_EBUDG",
+        "3"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2024/revenue-t3.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 283,
+    "content_sha256": "42f5c1f24771f16c262869655e94c3f9a23cea79336c24c7d307b94033bd8918",
+    "fetched_at": "2026-11-05T20:03:45+00:00"
+  },
+  {
+    "name": "deficit-v1",
+    "report": "deficit",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_DALL",
+        "1"
+      ]
+    ],
+    "file": "raw/reports/2025/deficit-v1.html.gz",
+    "export_file": "raw/reports/2025/deficit-v1.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 30/12/25 - հազ. դրամներով",
+    "as_of": "2025-12-30",
+    "n_records": 20,
+    "content_sha256": "8fa19c106596f4b3c170822ce090c93726d9c634d9c5e94e011f06012b93c690",
+    "fetched_at": "2026-11-05T19:57:30+00:00"
+  },
+  {
+    "name": "deficit-v2",
+    "report": "deficit",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_DALL",
+        "2"
+      ]
+    ],
+    "file": "raw/reports/2025/deficit-v2.html.gz",
+    "export_file": "raw/reports/2025/deficit-v2.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 30/12/25 - հազ. դրամներով",
+    "as_of": "2025-12-30",
+    "n_records": 89,
+    "content_sha256": "ce01777e19e69f02c85ac0964f3dc30003e36f8c8a6987de7411e60b0dcda07c",
+    "fetched_at": "2026-11-05T19:57:36+00:00"
+  },
+  {
+    "name": "expenditure",
+    "report": "expenditure",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ],
+      [
+        "site_NN5",
+        "5"
+      ],
+      [
+        "site_NN6",
+        "6"
+      ]
+    ],
+    "file": "raw/reports/2025/expenditure.html.gz",
+    "export_file": "raw/reports/2025/expenditure.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԾԱԽՍԵՐ առ 30/12/25 - հազ. դրամներով",
+    "as_of": "2025-12-30",
+    "n_records": 6090,
+    "content_sha256": "daf682db95278f67239ef2baf88dbae596c7809c3913ba8b7b1c20a5773bb6df",
+    "fetched_at": "2026-11-05T20:07:23+00:00"
+  },
+  {
+    "name": "expenditure-contract-lines",
+    "report": "expenditure",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "site_NN1",
+        "7"
+      ]
+    ],
+    "file": "raw/reports/2025/expenditure-contract-lines.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 2221,
+    "content_sha256": "517fd629761b64c77231668df79a40b5dc09a9e85889097118f615bb90505e31",
+    "fetched_at": "2026-11-05T20:11:12+00:00"
+  },
+  {
+    "name": "revenue-t0",
+    "report": "revenue",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_EBUDG",
+        "0"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2025/revenue-t0.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 957,
+    "content_sha256": "2a05657292f289c67c4b0cdf3f6b2d2d86576333cdc60e24d6d21dad0f14c992",
+    "fetched_at": "2026-11-05T19:53:17+00:00"
+  },
+  {
+    "name": "revenue-t1",
+    "report": "revenue",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_EBUDG",
+        "1"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2025/revenue-t1.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 654,
+    "content_sha256": "9cd55e45ad18792517068fe4b49017c319b3e6a25ddc33d921f17c018a0c6959",
+    "fetched_at": "2026-11-05T19:53:26+00:00"
+  },
+  {
+    "name": "revenue-t2",
+    "report": "revenue",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_EBUDG",
+        "2"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2025/revenue-t2.html.gz",
+    "export_file": "raw/reports/2025/revenue-t2.export.xml.gz",
+    "export_title": "Պաշտոնական դրամաշնորհներ առ 30/12/25",
+    "as_of": "2025-12-30",
+    "n_records": 9,
+    "content_sha256": "f25f28b217f4dbfa49ccc896813ce53fc89143b72a22390fd18a391de82db1e7",
+    "fetched_at": "2026-11-05T19:55:10+00:00"
+  },
+  {
+    "name": "revenue-t3",
+    "report": "revenue",
+    "year": 2025,
+    "params": [
+      [
+        "SITE_YEAR",
+        "2"
+      ],
+      [
+        "SITE_EBUDG",
+        "3"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2025/revenue-t3.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 296,
+    "content_sha256": "5d9d7fa1e81664e140bf3196f9d3c0d16358e8d4fdf173a7fac482b3c27fd985",
+    "fetched_at": "2026-11-05T19:55:18+00:00"
+  },
+  {
+    "name": "deficit-v1",
+    "report": "deficit",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_DALL",
+        "1"
+      ]
+    ],
+    "file": "raw/reports/2026/deficit-v1.html.gz",
+    "export_file": "raw/reports/2026/deficit-v1.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 04/11/26 - հազ. դրամներով",
+    "as_of": "2026-11-04",
+    "n_records": 20,
+    "content_sha256": "6d1393263b16c14a9f4f4e4d3a5f2d9e7e894667bcef39ec78b229e90c45b478",
+    "fetched_at": "2026-11-05T19:53:02+00:00"
+  },
+  {
+    "name": "deficit-v2",
+    "report": "deficit",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_DALL",
+        "2"
+      ]
+    ],
+    "file": "raw/reports/2026/deficit-v2.html.gz",
+    "export_file": "raw/reports/2026/deficit-v2.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԴԵՖԻՑԻՏ առ 04/11/26 - հազ. դրամներով",
+    "as_of": "2026-11-04",
+    "n_records": 80,
+    "content_sha256": "dc54f7b058b893e622ff0dfb5e7b57c16f58e60562a895561a7c14cba9e519c8",
+    "fetched_at": "2026-11-05T19:53:08+00:00"
+  },
+  {
+    "name": "expenditure",
+    "report": "expenditure",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ],
+      [
+        "site_NN5",
+        "5"
+      ],
+      [
+        "site_NN6",
+        "6"
+      ]
+    ],
+    "file": "raw/reports/2026/expenditure.html.gz",
+    "export_file": "raw/reports/2026/expenditure.export.xml.gz",
+    "export_title": "ԲՅՈՒՋԵ ԾԱԽՍԵՐ առ 04/11/26 - հազ. դրամներով",
+    "as_of": "2026-11-04",
+    "n_records": 6086,
+    "content_sha256": "d99cfe047e3f78311c20ab96b9eef524fa5c1bf08554d7b0c346d76084ad6b8d",
+    "fetched_at": "2026-11-05T18:51:15+00:00"
+  },
+  {
+    "name": "expenditure-contract-lines",
+    "report": "expenditure",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "site_NN1",
+        "7"
+      ]
+    ],
+    "file": "raw/reports/2026/expenditure-contract-lines.html.gz",
+    "export_file": "raw/reports/2026/expenditure-contract-lines.export.xml.gz",
+    "export_title": null,
+    "as_of": null,
+    "n_records": 2033,
+    "content_sha256": "1b4da311287d214a02ae36b2175287919bbae5b7732ab86cd8ca44e793669917",
+    "fetched_at": "2026-11-05T18:59:55+00:00"
+  },
+  {
+    "name": "revenue-t0",
+    "report": "revenue",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_EBUDG",
+        "0"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2026/revenue-t0.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 967,
+    "content_sha256": "44d938fb49e853bc12d26f48daae2179343143d712ed188bbfa24b92cfb4472d",
+    "fetched_at": "2026-11-05T19:44:47+00:00"
+  },
+  {
+    "name": "revenue-t1",
+    "report": "revenue",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_EBUDG",
+        "1"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2026/revenue-t1.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 661,
+    "content_sha256": "45d0c8931abe8d59a39759c37957b41f683f4ac6905ef8b9af13d388f34cabb0",
+    "fetched_at": "2026-11-05T19:45:04+00:00"
+  },
+  {
+    "name": "revenue-t2",
+    "report": "revenue",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_EBUDG",
+        "2"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2026/revenue-t2.html.gz",
+    "export_file": "raw/reports/2026/revenue-t2.export.xml.gz",
+    "export_title": "Պաշտոնական դրամաշնորհներ առ 04/11/26",
+    "as_of": "2026-11-04",
+    "n_records": 11,
+    "content_sha256": "94b486764885eb299e3323dcd809c019390bcac641068a120de3b7078ea916fc",
+    "fetched_at": "2026-11-05T19:50:19+00:00"
+  },
+  {
+    "name": "revenue-t3",
+    "report": "revenue",
+    "year": 2026,
+    "params": [
+      [
+        "SITE_YEAR",
+        "1"
+      ],
+      [
+        "SITE_EBUDG",
+        "3"
+      ],
+      [
+        "site_NN1",
+        "1"
+      ],
+      [
+        "site_NN2",
+        "2"
+      ],
+      [
+        "site_NN3",
+        "3"
+      ],
+      [
+        "site_NN4",
+        "4"
+      ]
+    ],
+    "file": "raw/reports/2026/revenue-t3.html.gz",
+    "export_file": null,
+    "export_title": null,
+    "as_of": null,
+    "n_records": 297,
+    "content_sha256": "e0a8146c03b94aa617f09d5124350c513d28158a7c48bad8d8a445ed2b3a36d2",
+    "fetched_at": "2026-11-05T19:50:25+00:00"
+  }
+]

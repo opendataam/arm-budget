@@ -1,0 +1,40 @@
+{
+  "report": "deficit",
+  "page": "site_l",
+  "year": 2025,
+  "year_index": 2,
+  "fetched_at": "2026-11-05T18:48:21+00:00",
+  "title": "Դեֆիցիտ 548,089,474.30",
+  "select_labels": {
+    "SITE_YEAR": "ԲՅՈՒՋԵՆ ԸՍՏ ՏԱՐԵԹՎԻ",
+    "SITE_DALL": "ՏԵՍԱԿ"
+  },
+  "selects": {
+    "SITE_YEAR": [
+      {
+        "value": "1",
+        "label": "2026"
+      },
+      {
+        "value": "2",
+        "label": "2025"
+      },
+      {
+        "value": "3",
+        "label": "2024"
+      }
+    ],
+    "SITE_DALL": [
+      {
+        "value": "1",
+        "label": "Հանրագումարները"
+      },
+      {
+        "value": "2",
+        "label": "Բոլորը"
+      }
+    ]
+  },
+  "list_titles": {},
+  "lists": {}
+}
